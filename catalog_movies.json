@@ -1,0 +1,38 @@
+(catalog_movies.json)
+{
+    "metas": [
+        {
+            "id": "last-straw",
+            "name": "Ver Last Straw online HD",
+            "type": "movie",
+            "poster": "",  // Add poster URL if available
+            "background": "",  // Add background URL if available
+            "description": "⭐ 7.3La sustancia2024",
+            "rating": 7.0,
+            "year": 2024,
+            "link": "https://www.cuevana2espanol.net/movies/last-straw"
+        },
+        {
+            "id": "operacion-overlord-946552",
+            "name": "Ver Operación Overlord online HD",
+            "type": "movie",
+            "poster": "",
+            "background": "",
+            "description": "⭐ 7.3La sustancia2024",
+            "rating": 7.0,
+            "year": 2024,
+            "link": "https://www.cuevana2espanol.net/movies/operacion-overlord-946552"
+        },
+        {
+            "id": "el-tiempo-que-tenemos",
+            "name": "Ver El Tiempo Que Tenemos online HD",
+            "type": "movie",
+            "poster": "",
+            "background": "",
+            "description": "⭐ 7.3La sustancia2024",
+            "rating": 7.0,
+            "year": 2024,
+            "link": "https://www.cuevana2espanol.net/movies/el-tiempo-que-tenemos"
+        }
+    ]
+}
