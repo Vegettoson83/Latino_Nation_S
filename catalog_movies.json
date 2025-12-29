@@ -1,14 +1,13 @@
-(catalog_movies.json)
 {
     "metas": [
         {
             "id": "last-straw",
             "name": "Ver Last Straw online HD",
             "type": "movie",
-            "poster": "",  // Add poster URL if available
-            "background": "",  // Add background URL if available
-            "description": "⭐ 7.3La sustancia2024",
-            "rating": 7.0,
+            "poster": "https://image.tmdb.org/t/p/original/4VAVWHWsZ7dKZxX55q8yougLYCW.jpg",
+            "background": "https://image.tmdb.org/t/p/original/4VAVWHWsZ7dKZxX55q8yougLYCW.jpg",
+            "description": "Un restaurante rural al borde de la carretera se convierte en el anfitrión de una matanza maníaca, dejando a una joven camarera a cargo de limpiar el desorden. Después de que la testaruda Nancy despide al personal del restaurante de su padre, decide cubrir sola el último turno de la noche. Lo que ella no sabe es que no está sola. El día vuelve para perseguirla y cuando las cosas empiezan a salirse de control, deberá luchar por su vida a lo largo de una larga noche.",
+            "rating": 6.14,
             "year": 2024,
             "link": "https://www.cuevana2espanol.net/movies/last-straw"
         },
@@ -16,21 +15,21 @@
             "id": "operacion-overlord-946552",
             "name": "Ver Operación Overlord online HD",
             "type": "movie",
-            "poster": "",
-            "background": "",
-            "description": "⭐ 7.3La sustancia2024",
-            "rating": 7.0,
-            "year": 2024,
+            "poster": "https://image.tmdb.org/t/p/original/7nOL8FuiWdSuQo6uGJaKFfFBTZ9.jpg",
+            "background": "https://image.tmdb.org/t/p/original/7nOL8FuiWdSuQo6uGJaKFfFBTZ9.jpg",
+            "description": "Una semana antes de asaltar las playas de Normandía, dos soldados estadounidenses se infiltran en un complejo abandonado para rescatar a un prisionero de guerra de las garras del régimen nazi.",
+            "rating": 6.4,
+            "year": 2021,
             "link": "https://www.cuevana2espanol.net/movies/operacion-overlord-946552"
         },
         {
             "id": "el-tiempo-que-tenemos",
             "name": "Ver El Tiempo Que Tenemos online HD",
             "type": "movie",
-            "poster": "",
-            "background": "",
-            "description": "⭐ 7.3La sustancia2024",
-            "rating": 7.0,
+            "poster": "https://image.tmdb.org/t/p/original/RiE4GRCOgSS9OgDi4nUuEvgGyK.jpg",
+            "background": "https://image.tmdb.org/t/p/original/RiE4GRCOgSS9OgDi4nUuEvgGyK.jpg",
+            "description": "Una historia de amor eterna protagonizada por los nominados al Premio de la Academia© Florence Pugh y Andrew Garfield.",
+            "rating": 7.26,
             "year": 2024,
             "link": "https://www.cuevana2espanol.net/movies/el-tiempo-que-tenemos"
         }
